@@ -12,6 +12,13 @@ header {
     color: #FFF
 }
 
+.dsmovie-nav-content-links {
+    display: flex;
+    padding: 5px;
+    align-items: center;
+    color: #FFF;
+}
+
 .dsmovie-nav-content h1 {
     margin: 0;
     font-weight: 700;
